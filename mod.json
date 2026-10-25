@@ -1,0 +1,15 @@
+{
+  "name": "Faster Leveling",
+  "folder": "wukong_fasterleveling",
+  "author": "Kintaro",
+  "version": "1.0",
+  "description": "Levels come twice as fast: every level needs half the XP.",
+  "kind": "wukong",
+  "game": "wukong",
+  "gameFolder": "Black Myth Wukong",
+  "paksPath": "b1\\Content\\Paks",
+  "gameVersion": "1.0.21.23831",
+  "engine": "UE5_0",
+  "pakName": "wukong_fasterleveling_P",
+  "launchOptions": "-fileopenlog"
+}

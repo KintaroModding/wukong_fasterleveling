@@ -1,0 +1,1715 @@
+{
+ "$type": "ResB1.TBPlayerLevelDesc",
+ "List": [
+  {
+   "Id": 1,
+   "NextLevelExp": 171,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 2,
+   "NextLevelExp": 195,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 3,
+   "NextLevelExp": 219,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 4,
+   "NextLevelExp": 244,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 5,
+   "NextLevelExp": 270,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 6,
+   "NextLevelExp": 296,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 7,
+   "NextLevelExp": 323,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 8,
+   "NextLevelExp": 350,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 9,
+   "NextLevelExp": 378,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 10,
+   "NextLevelExp": 407,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 11,
+   "NextLevelExp": 437,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 12,
+   "NextLevelExp": 467,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 13,
+   "NextLevelExp": 497,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 14,
+   "NextLevelExp": 529,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 15,
+   "NextLevelExp": 561,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 16,
+   "NextLevelExp": 593,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 17,
+   "NextLevelExp": 627,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 18,
+   "NextLevelExp": 661,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 19,
+   "NextLevelExp": 695,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 20,
+   "NextLevelExp": 730,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 21,
+   "NextLevelExp": 766,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 22,
+   "NextLevelExp": 803,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 23,
+   "NextLevelExp": 840,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 24,
+   "NextLevelExp": 878,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 25,
+   "NextLevelExp": 920,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 26,
+   "NextLevelExp": 962,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 27,
+   "NextLevelExp": 1006,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 28,
+   "NextLevelExp": 1050,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 29,
+   "NextLevelExp": 1095,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 30,
+   "NextLevelExp": 1141,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 31,
+   "NextLevelExp": 1187,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 32,
+   "NextLevelExp": 1234,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 33,
+   "NextLevelExp": 1282,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 34,
+   "NextLevelExp": 1331,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 35,
+   "NextLevelExp": 1380,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 36,
+   "NextLevelExp": 1430,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 37,
+   "NextLevelExp": 1481,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 38,
+   "NextLevelExp": 1533,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 39,
+   "NextLevelExp": 1585,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 40,
+   "NextLevelExp": 1638,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 41,
+   "NextLevelExp": 1692,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 42,
+   "NextLevelExp": 1746,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 43,
+   "NextLevelExp": 1801,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 44,
+   "NextLevelExp": 1857,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 45,
+   "NextLevelExp": 1914,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 46,
+   "NextLevelExp": 1971,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 47,
+   "NextLevelExp": 2029,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 48,
+   "NextLevelExp": 2088,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 49,
+   "NextLevelExp": 2148,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 50,
+   "NextLevelExp": 2208,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 51,
+   "NextLevelExp": 2269,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 52,
+   "NextLevelExp": 2331,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 53,
+   "NextLevelExp": 2394,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 54,
+   "NextLevelExp": 2457,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 55,
+   "NextLevelExp": 2521,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 56,
+   "NextLevelExp": 2586,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 57,
+   "NextLevelExp": 2651,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 58,
+   "NextLevelExp": 2718,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 59,
+   "NextLevelExp": 2785,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 60,
+   "NextLevelExp": 2852,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 61,
+   "NextLevelExp": 2921,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 62,
+   "NextLevelExp": 2990,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 63,
+   "NextLevelExp": 3060,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 64,
+   "NextLevelExp": 3131,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 65,
+   "NextLevelExp": 3202,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 66,
+   "NextLevelExp": 3274,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 67,
+   "NextLevelExp": 3347,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 68,
+   "NextLevelExp": 3421,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 69,
+   "NextLevelExp": 3495,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 70,
+   "NextLevelExp": 3570,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 71,
+   "NextLevelExp": 3646,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 72,
+   "NextLevelExp": 3723,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 73,
+   "NextLevelExp": 3800,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 74,
+   "NextLevelExp": 3878,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 75,
+   "NextLevelExp": 3957,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 76,
+   "NextLevelExp": 4037,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 77,
+   "NextLevelExp": 4117,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 78,
+   "NextLevelExp": 4198,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 79,
+   "NextLevelExp": 4280,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 80,
+   "NextLevelExp": 4362,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 81,
+   "NextLevelExp": 4446,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 82,
+   "NextLevelExp": 4530,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 83,
+   "NextLevelExp": 4614,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 84,
+   "NextLevelExp": 4700,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 85,
+   "NextLevelExp": 4786,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 86,
+   "NextLevelExp": 4870,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 87,
+   "NextLevelExp": 4953,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 88,
+   "NextLevelExp": 5034,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 89,
+   "NextLevelExp": 5114,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 90,
+   "NextLevelExp": 5193,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 91,
+   "NextLevelExp": 5271,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 92,
+   "NextLevelExp": 5348,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 93,
+   "NextLevelExp": 5424,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 94,
+   "NextLevelExp": 5498,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 95,
+   "NextLevelExp": 5572,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 96,
+   "NextLevelExp": 5644,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 97,
+   "NextLevelExp": 5716,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 98,
+   "NextLevelExp": 5786,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 99,
+   "NextLevelExp": 5856,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 100,
+   "NextLevelExp": 5924,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 101,
+   "NextLevelExp": 5992,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 102,
+   "NextLevelExp": 6058,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 103,
+   "NextLevelExp": 6124,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 104,
+   "NextLevelExp": 6189,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 105,
+   "NextLevelExp": 6253,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 106,
+   "NextLevelExp": 6316,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 107,
+   "NextLevelExp": 6378,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 108,
+   "NextLevelExp": 6440,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 109,
+   "NextLevelExp": 6500,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 110,
+   "NextLevelExp": 6560,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 111,
+   "NextLevelExp": 6619,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 112,
+   "NextLevelExp": 6678,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 113,
+   "NextLevelExp": 6735,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 114,
+   "NextLevelExp": 6792,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 115,
+   "NextLevelExp": 6849,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 116,
+   "NextLevelExp": 6904,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 117,
+   "NextLevelExp": 6959,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 118,
+   "NextLevelExp": 7013,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 119,
+   "NextLevelExp": 7067,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 120,
+   "NextLevelExp": 7119,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 121,
+   "NextLevelExp": 7172,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 122,
+   "NextLevelExp": 7223,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 123,
+   "NextLevelExp": 7274,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 124,
+   "NextLevelExp": 7325,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 125,
+   "NextLevelExp": 7374,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 126,
+   "NextLevelExp": 7423,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 127,
+   "NextLevelExp": 7472,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 128,
+   "NextLevelExp": 7520,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 129,
+   "NextLevelExp": 7568,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 130,
+   "NextLevelExp": 7615,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 131,
+   "NextLevelExp": 7661,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 132,
+   "NextLevelExp": 7707,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 133,
+   "NextLevelExp": 7752,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 134,
+   "NextLevelExp": 7797,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 135,
+   "NextLevelExp": 7842,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 136,
+   "NextLevelExp": 7886,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 137,
+   "NextLevelExp": 7929,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 138,
+   "NextLevelExp": 7972,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 139,
+   "NextLevelExp": 8014,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 140,
+   "NextLevelExp": 8056,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 141,
+   "NextLevelExp": 8098,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 142,
+   "NextLevelExp": 8139,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 143,
+   "NextLevelExp": 8180,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 144,
+   "NextLevelExp": 8220,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 145,
+   "NextLevelExp": 8260,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 146,
+   "NextLevelExp": 8299,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 147,
+   "NextLevelExp": 8338,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 148,
+   "NextLevelExp": 8377,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 149,
+   "NextLevelExp": 8415,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 150,
+   "NextLevelExp": 8453,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 151,
+   "NextLevelExp": 8490,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 152,
+   "NextLevelExp": 8527,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 153,
+   "NextLevelExp": 8564,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 154,
+   "NextLevelExp": 8600,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 155,
+   "NextLevelExp": 8636,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 156,
+   "NextLevelExp": 8672,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 157,
+   "NextLevelExp": 8707,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 158,
+   "NextLevelExp": 8742,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 159,
+   "NextLevelExp": 8776,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 160,
+   "NextLevelExp": 8810,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 161,
+   "NextLevelExp": 8844,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 162,
+   "NextLevelExp": 8878,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 163,
+   "NextLevelExp": 8911,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 164,
+   "NextLevelExp": 8944,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 165,
+   "NextLevelExp": 8977,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 166,
+   "NextLevelExp": 9009,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 167,
+   "NextLevelExp": 9041,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 168,
+   "NextLevelExp": 9072,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 169,
+   "NextLevelExp": 9104,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 170,
+   "NextLevelExp": 9135,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 171,
+   "NextLevelExp": 9166,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 172,
+   "NextLevelExp": 9196,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 173,
+   "NextLevelExp": 9226,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 174,
+   "NextLevelExp": 9256,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 175,
+   "NextLevelExp": 9286,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 176,
+   "NextLevelExp": 9315,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 177,
+   "NextLevelExp": 9345,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 178,
+   "NextLevelExp": 9374,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 179,
+   "NextLevelExp": 9402,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 180,
+   "NextLevelExp": 9431,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 181,
+   "NextLevelExp": 9459,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 182,
+   "NextLevelExp": 9487,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 183,
+   "NextLevelExp": 9514,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 184,
+   "NextLevelExp": 9542,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 185,
+   "NextLevelExp": 9569,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 186,
+   "NextLevelExp": 9596,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 187,
+   "NextLevelExp": 9622,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 188,
+   "NextLevelExp": 9649,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 189,
+   "NextLevelExp": 9675,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 190,
+   "NextLevelExp": 9701,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 191,
+   "NextLevelExp": 9727,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 192,
+   "NextLevelExp": 9752,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 193,
+   "NextLevelExp": 9778,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 194,
+   "NextLevelExp": 9803,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 195,
+   "NextLevelExp": 9828,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 196,
+   "NextLevelExp": 9852,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 197,
+   "NextLevelExp": 9877,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 198,
+   "NextLevelExp": 9901,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 199,
+   "NextLevelExp": 9925,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 200,
+   "NextLevelExp": 9949,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 201,
+   "NextLevelExp": 9973,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 202,
+   "NextLevelExp": 9997,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 203,
+   "NextLevelExp": 10020,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 204,
+   "NextLevelExp": 10043,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 205,
+   "NextLevelExp": 10066,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 206,
+   "NextLevelExp": 10089,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 207,
+   "NextLevelExp": 10111,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 208,
+   "NextLevelExp": 10134,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 209,
+   "NextLevelExp": 10156,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 210,
+   "NextLevelExp": 10178,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 211,
+   "NextLevelExp": 10200,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 212,
+   "NextLevelExp": 10222,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 213,
+   "NextLevelExp": 10243,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 214,
+   "NextLevelExp": 10265,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 215,
+   "NextLevelExp": 10286,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 216,
+   "NextLevelExp": 10307,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 217,
+   "NextLevelExp": 10328,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 218,
+   "NextLevelExp": 10349,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 219,
+   "NextLevelExp": 10369,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 220,
+   "NextLevelExp": 10390,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 221,
+   "NextLevelExp": 10410,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 222,
+   "NextLevelExp": 10430,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 223,
+   "NextLevelExp": 10450,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 224,
+   "NextLevelExp": 10470,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 225,
+   "NextLevelExp": 10490,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 226,
+   "NextLevelExp": 10509,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 227,
+   "NextLevelExp": 10529,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 228,
+   "NextLevelExp": 10548,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 229,
+   "NextLevelExp": 10567,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 230,
+   "NextLevelExp": 10586,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 231,
+   "NextLevelExp": 10599,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 232,
+   "NextLevelExp": 10612,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 233,
+   "NextLevelExp": 10627,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 234,
+   "NextLevelExp": 10644,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 235,
+   "NextLevelExp": 10661,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 236,
+   "NextLevelExp": 10680,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 237,
+   "NextLevelExp": 10699,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 238,
+   "NextLevelExp": 10720,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 239,
+   "NextLevelExp": 10743,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 240,
+   "NextLevelExp": 10766,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 241,
+   "NextLevelExp": 10791,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 242,
+   "NextLevelExp": 10816,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 243,
+   "NextLevelExp": 10843,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 244,
+   "NextLevelExp": 10872,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 245,
+   "NextLevelExp": 10901,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 246,
+   "NextLevelExp": 10932,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 247,
+   "NextLevelExp": 10963,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 248,
+   "NextLevelExp": 10996,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 249,
+   "NextLevelExp": 11031,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 250,
+   "NextLevelExp": 11066,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 251,
+   "NextLevelExp": 11103,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 252,
+   "NextLevelExp": 11140,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 253,
+   "NextLevelExp": 11179,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 254,
+   "NextLevelExp": 11220,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 255,
+   "NextLevelExp": 11261,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 256,
+   "NextLevelExp": 11304,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 257,
+   "NextLevelExp": 11347,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 258,
+   "NextLevelExp": 11392,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 259,
+   "NextLevelExp": 11439,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 260,
+   "NextLevelExp": 11486,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 261,
+   "NextLevelExp": 11535,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 262,
+   "NextLevelExp": 11584,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 263,
+   "NextLevelExp": 11635,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 264,
+   "NextLevelExp": 11688,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 265,
+   "NextLevelExp": 11741,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 266,
+   "NextLevelExp": 11796,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 267,
+   "NextLevelExp": 11851,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 268,
+   "NextLevelExp": 11908,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 269,
+   "NextLevelExp": 11967,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 270,
+   "NextLevelExp": 12026,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 271,
+   "NextLevelExp": 12087,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 272,
+   "NextLevelExp": 12148,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 273,
+   "NextLevelExp": 12211,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 274,
+   "NextLevelExp": 12276,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 275,
+   "NextLevelExp": 12341,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 276,
+   "NextLevelExp": 12408,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 277,
+   "NextLevelExp": 12475,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 278,
+   "NextLevelExp": 12544,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 279,
+   "NextLevelExp": 12615,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 280,
+   "NextLevelExp": 12686,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 281,
+   "NextLevelExp": 12759,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 282,
+   "NextLevelExp": 12832,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 283,
+   "NextLevelExp": 12907,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 284,
+   "NextLevelExp": 12984,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 285,
+   "NextLevelExp": 13061,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 286,
+   "NextLevelExp": 13140,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 287,
+   "NextLevelExp": 13219,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 288,
+   "NextLevelExp": 13300,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 289,
+   "NextLevelExp": 13383,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 290,
+   "NextLevelExp": 13466,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 291,
+   "NextLevelExp": 13551,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 292,
+   "NextLevelExp": 13636,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 293,
+   "NextLevelExp": 13723,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 294,
+   "NextLevelExp": 13812,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 295,
+   "NextLevelExp": 13901,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 296,
+   "NextLevelExp": 13992,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 297,
+   "NextLevelExp": 14083,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 298,
+   "NextLevelExp": 14176,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 299,
+   "NextLevelExp": 14271,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 300,
+   "NextLevelExp": 14366,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 301,
+   "NextLevelExp": 14463,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 302,
+   "NextLevelExp": 14560,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 303,
+   "NextLevelExp": 14659,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 304,
+   "NextLevelExp": 14760,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 305,
+   "NextLevelExp": 14861,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 306,
+   "NextLevelExp": 14964,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 307,
+   "NextLevelExp": 15067,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 308,
+   "NextLevelExp": 15172,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 309,
+   "NextLevelExp": 15279,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 310,
+   "NextLevelExp": 15386,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 311,
+   "NextLevelExp": 15495,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 312,
+   "NextLevelExp": 15604,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 313,
+   "NextLevelExp": 15715,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 314,
+   "NextLevelExp": 15828,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 315,
+   "NextLevelExp": 15941,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 316,
+   "NextLevelExp": 16056,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 317,
+   "NextLevelExp": 16171,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 318,
+   "NextLevelExp": 16288,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 319,
+   "NextLevelExp": 16407,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 320,
+   "NextLevelExp": 16526,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 321,
+   "NextLevelExp": 16647,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 322,
+   "NextLevelExp": 16768,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 323,
+   "NextLevelExp": 16891,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 324,
+   "NextLevelExp": 17016,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 325,
+   "NextLevelExp": 17141,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 326,
+   "NextLevelExp": 17268,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 327,
+   "NextLevelExp": 17395,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 328,
+   "NextLevelExp": 17524,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 329,
+   "NextLevelExp": 17655,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 330,
+   "NextLevelExp": 17786,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 331,
+   "NextLevelExp": 17919,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 332,
+   "NextLevelExp": 18052,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 333,
+   "NextLevelExp": 18187,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 334,
+   "NextLevelExp": 18324,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 335,
+   "NextLevelExp": 18461,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 336,
+   "NextLevelExp": 18600,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 337,
+   "NextLevelExp": 18739,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 338,
+   "NextLevelExp": 18880,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 339,
+   "NextLevelExp": 19023,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 340,
+   "NextLevelExp": 19166,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 341,
+   "NextLevelExp": 19311,
+   "NextLevelGainTalent": 1
+  },
+  {
+   "Id": 342,
+   "NextLevelExp": 19456,
+   "NextLevelGainTalent": 1
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Faster Leveling",
+  "summary": "Levels come twice as fast: every level needs half the XP, from level 1 up to the max level 342. Talent points per level stay as in the game.",
+  "games": ["black-myth-wukong"],
+  "tags": ["gameplay"],
+  "gameVersions": ["1.0.21"],
+  "cover": "docs/cover.png"
+}

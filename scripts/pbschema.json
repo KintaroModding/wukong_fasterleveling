@@ -1,0 +1,41 @@
+{
+ "messages": {
+  "ResB1.PlayerLevelDesc": {
+   "1": {
+    "name": "Id",
+    "label": "single",
+    "type": [
+     "int32",
+     null
+    ]
+   },
+   "2": {
+    "name": "NextLevelExp",
+    "label": "single",
+    "type": [
+     "int32",
+     null
+    ]
+   },
+   "3": {
+    "name": "NextLevelGainTalent",
+    "label": "single",
+    "type": [
+     "int32",
+     null
+    ]
+   }
+  },
+  "ResB1.TBPlayerLevelDesc": {
+   "1": {
+    "name": "List",
+    "label": "repeated",
+    "type": [
+     "message",
+     "PlayerLevelDesc"
+    ]
+   }
+  }
+ },
+ "enums": {}
+}
