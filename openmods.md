@@ -52,6 +52,9 @@ Nothing to do: the mod works as soon as you load a game.
   with this one; only one of them works. Mods that change enemies or drops work next to it.
 - A game update that changes this table needs a new build of the mod. Until then, the mod puts the older version of
   the table back; remove the mod after a game update until a new version is out.
+- There is also a C# version, [Faster Leveling (C#)](https://github.com/KintaroModding/wukong_fasterleveling_cs): you
+  choose the divider yourself (2 = this mod), it changes no game files and needs no `-fileopenlog`, but it needs
+  C# Loader. Use only one of the two: with both, each level needs a quarter of the XP.
 
 ## Known issues
 
