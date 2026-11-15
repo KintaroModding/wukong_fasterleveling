@@ -6,5 +6,5 @@
   "games": ["black-myth-wukong"],
   "tags": ["gameplay"],
   "gameVersions": ["1.0.21"],
-  "cover": "docs/cover.png"
+  "cover": "docs/cover.webp"
 }

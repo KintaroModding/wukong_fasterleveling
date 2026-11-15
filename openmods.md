@@ -23,7 +23,7 @@ reach each level twice as fast.
 
 ## Screenshots
 
-![Faster Leveling](docs/cover.png)
+![Faster Leveling](docs/cover.webp)
 
 ## How to install
 
